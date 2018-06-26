@@ -1,27 +1,21 @@
 <<<<<<< HEAD
 
-tabby_cat = "\tI'm t
->>>>>>> c76b84f665f156fe173680beceb15a01609230d2
+tabby_cat = "\tI'm tabbed in."
+persian_cat = "I'm split\non a line."
+backslash_cat = "I'm \\ a \\ cat."
 
-fat_rat = """
+
+fat_cat = """
 I'll do a list:
-<<<<<<< HEAD
-    \t* at food
-=======
     \t* Cat food
->>>>>>> c76b84f665f156fe173680beceb15a01609230d2
+    \t* Cat food
     \t* Porks
-    \t* atnip\n\t* Grass
+    \t* Catnip\n\t* Grass
     """
 
-<<<<<<< HEAD
 print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
 print(fat_cat)
 =======
-print(tabby_rat)
-print(persian_rat)
-print(backslash_rat)
-print(fat_rat)
->>>>>>> c76b84f665f156fe173680beceb15a01609230d2
+
